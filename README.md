@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ currently learning and working on my Skills </p>
+<p align="left">currently learning and working on my Skills  </p>
 
 ###
 
