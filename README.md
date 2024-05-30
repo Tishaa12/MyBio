@@ -7,15 +7,15 @@
 
 ###
 
-<h2 align="left">Student Of Computer Science and Engineering </h2>
+<h3>Student Of Computer Science and Engineering </h3>
 
 ###
 
-<p align="left">currently learning and working on my Skills  </p>
+<h4>currently learning and working on my Skills  </h4>
 
 ###
 
-<h2 align="left">I code with c,c++</h2>
+<h4> align="left">I code with c,c++</h4>
 
 ###
 
