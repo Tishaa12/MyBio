@@ -3,7 +3,7 @@
 
 ###
 
-<h2>lign="left">My name is Tisha </h2>
+<h2>My name is Tisha </h2>
 
 ###
 
