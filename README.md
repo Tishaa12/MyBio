@@ -11,11 +11,11 @@
 
 ###
 
-<h4>currently learning and working on my Skills  </h4>
+<h4>currently learning and working on my Skills 🙋‍♀️ </h4>
 
 ###
 
-<h4> I code with c,c++</h4>
+<h4> I code with c,c++ 📝</h4>
 
 ###
 
