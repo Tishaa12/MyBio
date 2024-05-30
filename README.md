@@ -3,15 +3,15 @@
 
 ###
 
-<h2>My name is Tisha </h2>
+<h2>My name is Tisha 🙋‍♀️</h2>
 
 ###
 
-<h3>Student Of Computer Science and Engineering </h3>
+<h3>Student Of Computer Science and Engineering.</h3>
 
 ###
 
-<h4>currently learning and working on my Skills 🙋‍♀️ </h4>
+<h4>currently learning and working on my Skills.</h4>
 
 ###
 
